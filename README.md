@@ -4,7 +4,7 @@
 
 Claritas is an end-to-end, privacy-focused Misinformation & Trust Detection Platform that combines layered ensemble classifiers, live web text extraction, batch analysis, and local explainable AI (XAI).
 
-## Demo Video : [Link](https://drive.google.com/file/d/155pyBLyLhmapAEu0Rck0vd53T8kltUL7/view?usp=sharing)
+## Demo Video : [Link](https://drive.google.com/file/d/1QiZ0j1HNKGwmJLr4JZC-P8WZvrrDuRn0/view?usp=sharing)
 
 ## IMPORTANT: 
 
